@@ -13,3 +13,9 @@ www.root.cz,www.lupa.cz##.comments__link
 www.root.cz,www.lupa.cz##.paragraph-reset-bottom.layout-box--top.element-print-hidden
 ! top comment below an article
 www.root.cz,www.lupa.cz##.component--opinions-module.component--opinions-module--top-opinion
+
+!! Zdroják
+! comments bubble on homepage etc.
+www.zdrojak.cz##.comments_bubble
+! comments below an article
+www.zdrojak.cz###comments
