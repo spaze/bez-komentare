@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Title: Bez komentáře
+! Author: Michal Špaček | https://www.michalspacek.cz/
+! Expires: 5 days
+
+!! Internet Info
+! number of comments on the home page
+www.root.cz,www.lupa.cz##.comments--mark.comments
+! number of comments on an article page
+www.root.cz,www.lupa.cz##.comments__count--new.comments__count
+www.root.cz,www.lupa.cz##.comments__link
+! link to comments below an article
+www.root.cz,www.lupa.cz##.paragraph-reset-bottom.layout-box--top.element-print-hidden
+! top comment below an article
+www.root.cz,www.lupa.cz##.component--opinions-module.component--opinions-module--top-opinion
