@@ -7,7 +7,7 @@
 ! number of comments on the home page
 www.root.cz,www.lupa.cz##.comments--mark.comments
 ! number of comments on the home page, in the left "news" column
-www.root.cz,www.lupa.cz##.impressum.comments
+www.root.cz,www.lupa.cz##.impressum > .comments
 ! number of comments on an article page
 www.root.cz,www.lupa.cz##.comments__count--new.comments__count
 www.root.cz,www.lupa.cz##.comments__link
