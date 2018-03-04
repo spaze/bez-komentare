@@ -17,6 +17,9 @@ www.root.cz,www.lupa.cz##.paragraph-reset-bottom.layout-box--top.element-print-h
 www.root.cz,www.lupa.cz##.component--opinions-module.component--opinions-module--top-opinion
 ! comments directly below an article
 www.root.cz,www.lupa.cz###opinionsListing
+! comments on author's page
+www.root.cz,www.lupa.cz###authorsModule th:nth-of-type(4)
+www.root.cz,www.lupa.cz###authorsModule tr > td:nth-of-type(3)
 
 !! Zdroják
 ! comments bubble on homepage etc.
