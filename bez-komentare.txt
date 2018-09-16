@@ -34,3 +34,20 @@ slunecnice.cz##.component--opinions-module
 www.zdrojak.cz##.comments_bubble
 ! comments below an article
 www.zdrojak.cz###comments
+
+!! News servers
+! number of comments on the home page
+technet.idnes.cz##.h.fr
+! link to all comments at the top of article page
+seznamzpravy.cz##[data-dot="atm-video-comments-button"]
+! comments directly below an article
+seznamzpravy.cz##[data-dot="ogm-video-comment-teaser"]
+! link to comments below an article
+novinky.cz###discussionEntry
+idnes.cz##.community-discusion
+! number of comments on the author page
+seznamzpravy.cz##[data-dot="mol-card-footer-video-comments-count"]
+
+!! Živě.cz
+zive.cz##.ar-comments
+zive.cz##.ar-btn-comments
