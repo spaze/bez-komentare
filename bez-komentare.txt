@@ -6,6 +6,8 @@
 !! Internet Info
 ! number of comments on the home page
 www.root.cz,www.lupa.cz##.comments--mark.comments
+magazin.stahuj.cz##.article-tags
+magazin.stahuj.cz##.article-komentare-top
 ! number of comments on the home page, in the left "news" column
 www.root.cz,www.lupa.cz##.impressum > .comments
 ! number of comments on an article page
@@ -17,9 +19,15 @@ www.root.cz,www.lupa.cz##.paragraph-reset-bottom.layout-box--top.element-print-h
 www.root.cz,www.lupa.cz##.component--opinions-module.component--opinions-module--top-opinion
 ! comments directly below an article
 www.root.cz,www.lupa.cz###opinionsListing
+magazin.stahuj.cz###box-small-discussion
+! comments bubble below an article
+magazin.stahuj.cz###discussion-sticky
 ! comments on author's page
 www.root.cz,www.lupa.cz###authorsModule th:nth-of-type(4)
 www.root.cz,www.lupa.cz###authorsModule tr > td:nth-of-type(3)
+! number of comments on the product page
+magazin.stahuj.cz##.article-discussion-short
+slunecnice.cz##.component--opinions-module
 
 !! Zdroják
 ! comments bubble on homepage etc.
