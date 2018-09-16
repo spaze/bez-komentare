@@ -39,3 +39,7 @@ novinky.cz###discussionEntry
 idnes.cz##.community-discusion
 ! number of comments on the author page
 seznamzpravy.cz##[data-dot="mol-card-footer-video-comments-count"]
+
+!! Živě.cz
+zive.cz##.ar-comments
+zive.cz##.ar-btn-comments
