@@ -35,6 +35,14 @@ www.zdrojak.cz##.comments_bubble
 ! comments below an article
 www.zdrojak.cz###comments
 
+!! Cnews.cz
+! number of comments on the home page
+www.cnews.cz##.td-module-comments
+! number of comments on an article page
+www.cnews.cz##.td-post-comments
+! comments directly below an article
+www.cnews.cz###comments
+
 !! News servers
 ! number of comments on the home page
 technet.idnes.cz##.h.fr
