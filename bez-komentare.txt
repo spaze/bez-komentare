@@ -5,7 +5,7 @@
 
 !! Internet Info
 ! number of comments on the home page
-www.root.cz,www.lupa.cz##.comments--mark.comments
+www.root.cz,www.lupa.cz##.comments
 magazin.stahuj.cz##.article-tags
 magazin.stahuj.cz##.article-komentare-top
 ! number of comments on the home page, in the left "news" column
