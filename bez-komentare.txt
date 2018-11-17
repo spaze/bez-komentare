@@ -59,3 +59,15 @@ seznamzpravy.cz##[data-dot="mol-card-footer-video-comments-count"]
 !! Živě.cz
 zive.cz##.ar-comments
 zive.cz##.ar-btn-comments
+
+!! AbcLinuxu.cz
+! number of comments on the home page
+www.abclinuxu.cz##.st .meta-vypis > a:nth-child(2)
+! number of comments on the home page, in the left "news" column
+www.abclinuxu.cz##.ls_zpr > .zpr_telo+span > a:nth-child(2)
+! comments directly below an article
+www.abclinuxu.cz##.st .page_tools+h3
+www.abclinuxu.cz##.st .ds_toolbox+p
+www.abclinuxu.cz##.st .ds_hlavicka
+www.abclinuxu.cz##.st .ds_hlavicka+[id^='comment']
+www.abclinuxu.cz##.st a[href*='EditDiscussion']
