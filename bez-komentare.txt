@@ -19,8 +19,10 @@ www.root.cz,www.lupa.cz##.paragraph-reset-bottom.layout-box--top.element-print-h
 www.root.cz,www.lupa.cz##.component--opinions-module.component--opinions-module--top-opinion
 ! comments directly below an article
 www.root.cz,www.lupa.cz###opinionsListing
+www.root.cz,www.lupa.cz###sledovani-nazoru
 magazin.stahuj.cz###box-small-discussion
 ! comments bubble below an article
+www.root.cz,www.lupa.cz##.component--opinions-module
 magazin.stahuj.cz###discussion-sticky
 ! comments on author's page
 www.root.cz,www.lupa.cz###authorsModule th:nth-of-type(4)
